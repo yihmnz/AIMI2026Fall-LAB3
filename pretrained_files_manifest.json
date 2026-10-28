@@ -1,0 +1,14 @@
+{
+  "pretrain_weight/chexfound/config.yaml": {
+    "bytes": 2740,
+    "sha256": "e2589192806ae53dc5a6a983fe435e181e86ec4cd146fc8527ef6b8f8ca91659"
+  },
+  "pretrain_weight/chexfound/teacher_checkpoint.pth": {
+    "bytes": 1610888895,
+    "sha256": "839de84b9971d7ad77cda2d032801503d71aca5ac30cbb08126e76b8e3660909"
+  },
+  "pretrain_weight/chexzero/best_64_5e-05_original_22000_0.864.pt": {
+    "bytes": 353548709,
+    "sha256": "567a2efbabc6a02370de6e18178afd22ee72d7e6f29a789db1535e5c798d6ae8"
+  }
+}

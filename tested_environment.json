@@ -1,0 +1,18 @@
+{
+  "torch": "2.14.1+cu132",
+  "torchvision": "0.29.1+cu132",
+  "numpy": "2.4.6",
+  "pandas": "3.0.6",
+  "Pillow": "12.3.0",
+  "matplotlib": "3.11.2",
+  "scikit-learn": "1.9.1",
+  "tqdm": "4.70.1",
+  "torchxrayvision": "1.5.7",
+  "transformers": "5.20.2",
+  "omegaconf": "2.4.0",
+  "fvcore": "not installed in this environment",
+  "safetensors": "0.8.0",
+  "iopath": "not installed in this environment",
+  "ftfy": "not installed in this environment",
+  "regex": "2026.9.29"
+}
